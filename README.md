@@ -1,2 +1,0 @@
-# eduinall
-Initial repository
